@@ -206,3 +206,10 @@
 |开言英语OpenLanguage|OpenLanguage       |https://gitee.com/pachong1/thersshub/raw/master/rss/445cd32b26a52f338ce33d2045e573c4.xml|
 |半导体行业观察      |icbank             |https://gitee.com/pachong1/thersshub/raw/master/rss/2aba7ec1846e5a4ce6c9d27b64995577.xml|
 |经管之家            |jgjgedu            |https://gitee.com/pachong1/thersshub/raw/master/rss/764752bb4d61e130f82b8f879d004f67.xml|
+|上海联通            |SHWOLXF            |https://gitee.com/pachong1/thersshub/raw/master/rss/d3107b9e16dcaf9c43e19516f00a8cea.xml|
+|香奈儿CHANEL        |chanelofficial     |https://gitee.com/pachong1/thersshub/raw/master/rss/7056fc99425da93264ca9547c13bc593.xml|
+|橙皮书              |chengpishu         |https://gitee.com/pachong1/thersshub/raw/master/rss/36fc4032e630eb7317d2dd2a5f4ad781.xml|
+|胖车库              |                   |https://gitee.com/pachong1/thersshub/raw/master/rss/bafe96a84a78e8a2bd9b521a6f8d5ba1.xml|
+|写bug的高师傅       |python_crawler     |https://gitee.com/pachong1/thersshub/raw/master/rss/cc710878ce98925ffd799e8464f3a523.xml|
+|萌浪newslab         |sinanewslab        |https://gitee.com/pachong1/thersshub/raw/master/rss/00e43a24bc5d69537dc38d3830f0e9c6.xml|
+|回形针PaperClip     |papercliptv        |https://gitee.com/pachong1/thersshub/raw/master/rss/fe9d450695e3eb3c1bb338812422e7c3.xml|
